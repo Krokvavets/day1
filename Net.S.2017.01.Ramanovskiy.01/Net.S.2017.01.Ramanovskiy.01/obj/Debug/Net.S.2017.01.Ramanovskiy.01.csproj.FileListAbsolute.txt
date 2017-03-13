@@ -1,0 +1,5 @@
+c:\users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.01\Net.S.2017.01.Ramanovskiy.01\bin\Debug\Net.S.2017.01.Ramanovskiy.01.dll
+c:\users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.01\Net.S.2017.01.Ramanovskiy.01\bin\Debug\Net.S.2017.01.Ramanovskiy.01.pdb
+c:\users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.01\Net.S.2017.01.Ramanovskiy.01\obj\Debug\Net.S.2017.01.Ramanovskiy.01.csprojResolveAssemblyReference.cache
+c:\users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.01\Net.S.2017.01.Ramanovskiy.01\obj\Debug\Net.S.2017.01.Ramanovskiy.01.dll
+c:\users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.01\Net.S.2017.01.Ramanovskiy.01\obj\Debug\Net.S.2017.01.Ramanovskiy.01.pdb
